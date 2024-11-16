@@ -23,7 +23,7 @@ I'm a tech enthusiast dedicated to developing impactful solutions in fields like
 ## 🛠️ My Tech Stack
 
 **Languages:**  
-- Python, Dart, JavaScript, HTML/CSS  
+- Python, Dart, JavaScript, Swift/SwiftUI, Java, HTML/CSS  
 
 **Frameworks & Libraries:**  
 - Flutter, React.js, Next.js, Tailwind CSS, Flask
@@ -32,7 +32,7 @@ I'm a tech enthusiast dedicated to developing impactful solutions in fields like
 - Firebase, Git,  Figma, Canva, VS Code, Xcode, Android Studio
 
 **Databases:**  
-- MongoDB,  Firebase, 
+- MongoDB,  Firebase
 
 ---
 
